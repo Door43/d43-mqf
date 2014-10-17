@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mqf:home|Door43 (mqf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mqf|d43-mqf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mqf/archive/master.zip|d43-mqf.zip]]
+
+**Recent Changes**
+{{changes>ns = mqf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mqf|Ethnologue data]]
+
